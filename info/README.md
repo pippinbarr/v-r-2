@@ -3,14 +3,14 @@
 ![](images/v-r-2-banner.png)
 
 
-# Download *v r 2* for [Mac OS X](https://github.com/pippinbarr/v-r-2/releases/tag/mac) or [Windows](https://github.com/pippinbarr/v-r-2/releases/tag/windows), [Play Online](https://pippinbarr.github.io/v-r-2/webgl/) (desktop only), or [Download the information sheets](https://github.com/pippinbarr/v-r-2/releases/tag/information-sheets)
+# Download *v r 2* for [Mac OS X](https://github.com/pippinbarr/v-r-2/releases/tag/mac) or [Windows](https://github.com/pippinbarr/v-r-2/releases/tag/windows), [Play Online](https://www.pippinbarr.com/v-r-2/webgl/) (desktop only), or [Download the information sheets](https://github.com/pippinbarr/v-r-2/releases/tag/information-sheets)
 
-## Descriptions
+## Description
 *There’s so much to see and do! But you can’t see it or do it! Grapple with videogame ontology! And epistemology! Perhaps you won’t see the point of any of this! I’m sorry! No I’m not!*
 
 _v r 2_ was made in [Unity](http://unity3d.com/) (using [First Person Drifter](http://torahhorse.com/first-person-drifter-controller-for-unity3d) by [Ben Esposito](http://torahhorse.com/) with a couple of small edits) and [Blender](https://www.blender.org/). The sound effects you can&#8217;t hear were manipulated in [Audacity](http://www.audacityteam.org/). _v r 2_ is based in part on the work of [Gregor Schneider](http://www.gregor-schneider.de/) and in part on the work of Donald Judd, specifically his work “[100 untitled works in mill aluminum](https://www.chinati.org/collection/donaldjudd)” in Marfa, Texas.
 
-## Process
+## Documentation
 * Read the [Process Documentation](../process)
 * Look at the [Code Repository](https://github.com/pippinbarr/v-r-2) for source code etc.
 
