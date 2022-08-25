@@ -2,8 +2,7 @@
 
 ![](images/v-r-2-banner.png)
 
-
-# Download *v r 2* for [Mac OS X](https://github.com/pippinbarr/v-r-2/releases/tag/mac) or [Windows](https://github.com/pippinbarr/v-r-2/releases/tag/windows), [Play Online](https://www.pippinbarr.com/v-r-2/webgl/) (desktop only), or [Download the information sheets](https://github.com/pippinbarr/v-r-2/releases/tag/information-sheets)
+# Download for [Mac OS X](https://github.com/pippinbarr/v-r-2/releases/tag/mac) or [Windows](https://github.com/pippinbarr/v-r-2/releases/tag/windows), [Play Online](https://www.pippinbarr.com/v-r-2/webgl/) (desktop only), or [Download the information sheets](https://github.com/pippinbarr/v-r-2/releases/tag/information-sheets)
 
 ## Description
 *There’s so much to see and do! But you can’t see it or do it! Grapple with videogame ontology! And epistemology! Perhaps you won’t see the point of any of this! I’m sorry! No I’m not!*
